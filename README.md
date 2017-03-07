@@ -83,6 +83,8 @@ Hena Firdaus ([henadaus](https://github.com/henadaus))
 
 Holly Schinsky ([hollyschinsky](https://github.com/hollyschinsky))
 
+Ipshita Chatterjee ([IpshitaC](https://github.com/IpshitaC))
+
 Irish Medina ([Nerdylicious](https://github.com/Nerdylicious))
 
 Ilze Dombrovska ([ilze-d](https://github.com/ilze-d))
